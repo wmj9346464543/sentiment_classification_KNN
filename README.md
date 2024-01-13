@@ -1,0 +1,2 @@
+# sentiment_classification_KNN
+基于KNN实现中文文本情感分析
